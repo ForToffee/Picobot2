@@ -1,7 +1,7 @@
 /*  Requires FastLED from http://fastled.io/ for pixels
     
     Cheerlights client that reads the lastest colour every 0.5 seconds
-    and updates both the OLED and pixel accordingly
+    and updates the pixels accordingly
     
     By Carl Monk (@ForToffee)
 */
