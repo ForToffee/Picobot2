@@ -11,10 +11,10 @@ Command set is currently
 - [rrggbb] = light both pixels hex RGB value
 
 
-tweets must contain #tweetcontrol #bot
+tweets must contain #thingspeak #bot
 so
 
- #tweetcontrol #bot F1L2B2R1[FFFFFF]
+ #thingspeak #bot F1L2B2R1[FFFFFF]
  
 would result in 
 
