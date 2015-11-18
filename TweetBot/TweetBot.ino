@@ -91,13 +91,13 @@ void loop()
 
           setAll(r,g,b);
         }
+        case 'b':     // backward or hex value
         case 'f':{    //forward or hex value
           if (parseColour){
             colour += 'f';
           }
         }
         
-        case 'b':
         case 'l':
         case 'r':{
           if (!parseHashtag && !parseColour){
